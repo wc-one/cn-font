@@ -1,13 +1,13 @@
 {
   "name": "字体圈欣意吉祥宋",
-  "description": "开源的泛 CJK 字体",
-  "version": "1.0.0",
+  "description": "字体圈欣意吉祥宋",
+  "version": "1.0.25",
   "fontFile": "ZiTiQuanXinYiJiXiangSong/ZiTiQuanXinYiJiXiangSong-2.ttf",
   "extraFiles": [
     "ZiTiQuanXinYiJiXiangSong/字体圈欣意吉祥宋授权证书.jpg",
     "ZiTiQuanXinYiJiXiangSong/《吉祥宋》字体必读声明及使用范畴.txt"
   ],
-  "download": "https://fileres.fonts.net.cn/font-39072-210103160523.zip?response-content-disposition=attachment%3Bfilename%3D%22ZiTiQuanXinYiJiXiangSong.zip%22&auth_key=1654873763-62a35e67f37351x48314833-0-fa82525a3335c8ddb246b8c73122bca9",
+  "download": "https://download.fastgit.org/wc-one/cn-font/releases/download/init/ZiTiQuanXinYiJiXiangSong.zip",
   "link": "https://www.fonts.net.cn/font-39072283843.html",
   "license": "free"
 }
