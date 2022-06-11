@@ -57,4 +57,7 @@
 ### 字体列表
 
 - _字体圈欣意吉祥宋_ (7238 字): https://www.npmjs.com/package/@wc1font/fontquan-xin-yi-ji-xiang-song
-- _思源宋体_ (44748 字): https://www.npmjs.com/package/@wc1font/source-han-serif-sc-vf
+- _思源宋体-简_ (30897 字): https://www.npmjs.com/package/@wc1font/source-han-serif-cn-vf
+- _思源宋体-中日韩简繁_ (44748 字): https://www.npmjs.com/package/@wc1font/source-han-serif-sc-vf
+- _思源黑体-简_ (30897 字): https://www.npmjs.com/package/@wc1font/source-han-serif-cn-vf
+- _思源黑体-中日韩简繁_ (30897 字): https://www.npmjs.com/package/@wc1font/source-han-serif-cn-vf
