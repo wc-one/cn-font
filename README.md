@@ -64,3 +64,4 @@
 - _鸿雷板书简体_ (6996 字): [字体包](https://www.npmjs.com/package/@wc1font/honglei-sim) [来源网站](https://www.fonts.net.cn/font-38386302876.html)
 
 - _演示秋鸿楷_ (6971字): [字体包](https://www.npmjs.com/package/@wc1font/slideqiuhong) [来源网站](https://www.fonts.net.cn/font-38836352052.html)
+- _方正楷体简体_ (8098字): [字体包](https://www.npmjs.com/package/@wc1font/fz-kai-z-03-s) [来源网站](https://www.fonts.net.cn/font-31561199974.html)
