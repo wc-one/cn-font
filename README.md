@@ -62,3 +62,5 @@
 - _思源黑体-中日韩简繁_ (30897 字): [字体包](https://www.npmjs.com/package/@wc1font/source-han-serif-cn-vf) [来源网站](https://github.com/adobe-fonts/source-han-sans)
 - _字体圈欣意吉祥宋_ (7238 字): [字体包](https://www.npmjs.com/package/@wc1font/fontquan-xin-yi-ji-xiang-song) [来源网站](https://www.fonts.net.cn/font-39072283843.html)
 - _鸿雷板书简体_ (6996 字): [字体包](https://www.npmjs.com/package/@wc1font/honglei-sim) [来源网站](https://www.fonts.net.cn/font-38386302876.html)
+
+- _演示秋鸿楷_ (6971字): [字体包](https://www.npmjs.com/package/@wc1font/slideqiuhong) [来源网站](https://www.fonts.net.cn/font-38836352052.html)
